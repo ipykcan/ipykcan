@@ -22,7 +22,7 @@
 
 ### 📫 **Connect With Me**
 <p align="center">
-  <a href="https://linkedin.com/in/YOURUSERNAME">
+  <a href="https://www.linkedin.com/in/poojasri-bhogavalli-09814a308/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"  height="35"/>
   </a>
   <a href="mailto:youremail@gmail.com">
