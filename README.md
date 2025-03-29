@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/poojasri-bhogavalli-09814a308/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"  height="35"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:poojasreebhogavalli@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"  height="35"/>
   </a>
 </p>
