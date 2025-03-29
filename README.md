@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300">
 </p>
 
-<h1 align="center">Hi there 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi there 👋, I'm Poojasri Bhogavalli</h1>
 
 <p align="center">
   🚀 Passionate about Web Development & Cloud Computing 🌍  
