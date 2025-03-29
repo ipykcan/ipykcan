@@ -12,10 +12,10 @@
 
 ### 🛠️ **Tech Stack & Skills**
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="35"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="35"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="35"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="35"/></a>
 </p>
 
 ---
