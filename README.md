@@ -30,26 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipyckan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipyckan&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Current Projects
-
-🚀 Random Color Generator  
-👕 What2Wear  
-🧮 Calculator  
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/ipyckan/ipyckan/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ From [Pooja](https://github.com/ipyckan)
