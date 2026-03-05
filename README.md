@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D0148,100:2a5298&height=200&section=header&text=Pooja%20Bhogavalli&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D0148,100:4D0148&height=200&section=header&text=Pooja%20Bhogavalli&fontSize=40&fontColor=ffffff"/>
 </p>
 
 # 👋 Hello World, I'm Pooja!
